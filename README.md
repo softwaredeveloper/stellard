@@ -48,4 +48,4 @@ LICENSE file for more details.
 ###For more information:
 * https://www.stellar.org
 * https://wiki.stellar.org
-* Freelance Developer (https://www.phpfreelanceprogrammer.com)
+* [Freelance Developer] (https://www.phpfreelanceprogrammer.com)
